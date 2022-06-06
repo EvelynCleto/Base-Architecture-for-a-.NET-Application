@@ -1,1 +1,1 @@
-# arqutetura base para uma aplicação .net
+# base architecture for a .net application
